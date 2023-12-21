@@ -25,4 +25,4 @@ Creating a JavaScript Calculator for a freeCodeCamp Project. The purpose of the 
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
-[*Drum Machine* by Kutz](https://codepen.io/kutzz/pen/VwgYOJx)
+[*JavaScript Calculator* by Kutz](https://codepen.io/kutzz/pen/VwgYOJx)
