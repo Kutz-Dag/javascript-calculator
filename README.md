@@ -21,6 +21,7 @@ Creating a JavaScript Calculator for a freeCodeCamp Project. The purpose of the 
 ### What was the aim?
 * The calculator should be functional
 * The calculator should be built using React.js
+* The calculator should perform basic mathematical calculations.
 * There should also be no errors, for example, 5 + 5 should equal 10, and not 55.
 
 ## CodePen Project Link
