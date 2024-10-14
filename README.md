@@ -4,7 +4,8 @@
 Creating a JavaScript Calculator for a freeCodeCamp Project. The purpose of the project is to create a functional calculator using the React.js framework.
 
 ### The calculator should look similar to this:
-![image](https://cdn.ttgtmedia.com/rms/onlineimages/Math_programming_calc_figure_2_half_column_mobile.jpg)
+
+![javascript-calc](https://github.com/user-attachments/assets/cce87d62-0e21-41ef-ab0d-25a68c0657f9)
 
 ### I used these languages to create this project
 ```html
