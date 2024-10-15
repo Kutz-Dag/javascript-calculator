@@ -5,7 +5,7 @@ Creating a JavaScript Calculator for a freeCodeCamp Project. The purpose of the 
 
 ### The calculator should look similar to this:
 
-![javascript-calc](https://github.com/user-attachments/assets/cce87d62-0e21-41ef-ab0d-25a68c0657f9)
+[![Capture](https://github.com/user-attachments/assets/cce87d62-0e21-41ef-ab0d-25a68c0657f9)](https://javascript-calculator.freecodecamp.rocks/)
 
 ### I used these languages to create this project
 ```html
