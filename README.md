@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# JavaScript Calculator with React
 
 ### Description
 Creating a JavaScript Calculator for a freeCodeCamp Project. The purpose of the project is to create a functional calculator using the React.js framework.
